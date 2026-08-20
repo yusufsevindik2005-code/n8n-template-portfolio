@@ -9,6 +9,6 @@ Two connected n8n workflows: one researches fresh trend topics with Claude (dedu
 - A production-refined script formula: bold-claim/question opening, a mid-script "pattern interrupt" line placed where Shorts retention typically dips, deliberate line-length variation, and a closing line that loops back to the opening
 - Fully self-contained — only needs Google Sheets + an Anthropic API key, no external render script required
 
-**Get it:** [AutomationWorkflows.io listing](PASTE_PRODUCT_LINK_HERE)
+**Get it:** [AutomationWorkflows.io listing](https://automationworkflows.io/product/ai-trend-research-viral-script-writer-hook-pattern-interrupt-loop-formula-n8n-claude)
 
 *(Full template files are delivered on purchase — this repo is a portfolio showcase, not the download.)*

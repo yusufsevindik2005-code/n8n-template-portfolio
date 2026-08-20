@@ -10,6 +10,6 @@ An n8n workflow that turns a multi-character script into a fully narrated video.
 - Supports pre-made song lines (paste a Suno/Udio URL) spliced directly into the narration sequence
 - Full error handling: a failed render writes a distinct status back to the Sheet instead of failing silently
 
-**Get it:** [AutomationWorkflows.io listing](PASTE_PRODUCT_LINK_HERE)
+**Get it:** [AutomationWorkflows.io listing](https://automationworkflows.io/product/multi-voice-ai-character-video-generator-elevenlabs-piper-tts-google-sheets-approval-ffmpeg-render-n8n)
 
 *(Full template file is delivered on purchase — this repo is a portfolio showcase, not the download.)*

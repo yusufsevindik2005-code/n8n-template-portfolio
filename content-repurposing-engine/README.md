@@ -9,6 +9,6 @@ An n8n + Claude workflow that turns one long-form source (a video transcript, po
 - One angle → four platform-native formats, each following that platform's actual conventions (not the same text pasted four times)
 - Strict output validation — a malformed or incomplete Claude response fails loudly instead of writing a broken row
 
-**Get it:** [AutomationWorkflows.io listing](PASTE_PRODUCT_LINK_HERE)
+**Get it:** listing coming soon on AutomationWorkflows.io
 
 *(Full template file is delivered on purchase — this repo is a portfolio showcase, not the download.)*

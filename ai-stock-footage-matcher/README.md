@@ -9,6 +9,6 @@ An n8n workflow that turns an approved script into a fully rendered video: it fe
 - Cross-line deduplication — avoids reusing the same clip across multiple lines in one video
 - Full error-handling branch: a failed stock-fetch or render step writes a distinct status instead of failing the whole run silently
 
-**Get it:** [AutomationWorkflows.io listing](PASTE_PRODUCT_LINK_HERE)
+**Get it:** [AutomationWorkflows.io listing](https://automationworkflows.io/product/ai-stock-footage-matcher-video-render-pipeline-n8n)
 
 *(Full template file is delivered on purchase — this repo is a portfolio showcase, not the download.)*
