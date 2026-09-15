@@ -2,7 +2,7 @@
 
 A collection of production-grade n8n workflows built around AI content pipelines: video generation, TTS, trend research, and content repurposing. Each template below is fully documented and available for purchase on AutomationWorkflows.io.
 
-Also offering custom n8n automation setup and adaptation — see my [Fiverr](https://www.fiverr.com/yusufsevindik1) / [Upwork](https://www.upwork.com/freelancers/~0109c025d4ea9af651) profile.
+Also offering custom n8n automation setup and adaptation. See my [Fiverr](https://www.fiverr.com/yusufsevindik1) / [Upwork](https://www.upwork.com/freelancers/~0109c025d4ea9af651) profile.
 
 ## Templates
 
@@ -14,4 +14,4 @@ Also offering custom n8n automation setup and adaptation — see my [Fiverr](htt
 | [AI Content Repurposing Engine](content-repurposing-engine/) | Turn one long-form transcript/article into a 4-platform, source-grounded content pack | [Buy](https://automationworkflows.io/product/ai-content-repurposing-engine-1-long-form-source-5-platform-content-pack-n8n-claude) |
 | [AI Content Pipeline with Self-Reviewing Agent](multi-agent-content-qa/) | Multi-agent chain: Researcher → Writer → Reviewer, with a capped auto-revision loop | [Buy](https://automationworkflows.io/product/ai-content-pipeline-with-self-reviewing-agent-researcher-writer-qc-loop-n8n-claude) |
 
-All workflows are real, working automations — most were refined against actual daily production use, not built as one-off demos. Support scripts (rendering, TTS) are intentionally not bundled with every template; see each listing for what's included.
+All workflows are real, working automations. Most were refined against actual daily production use, not built as one-off demos. Support scripts (rendering, TTS) are intentionally not bundled with every template; see each listing for what's included.
