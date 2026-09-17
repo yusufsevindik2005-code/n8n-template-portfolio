@@ -8,7 +8,7 @@ Also offering custom n8n automation setup and adaptation. See my [Fiverr](https:
 
 | Template | Description | Listing |
 |---|---|---|
-| [AI Stock Footage Matcher & Video Render Pipeline](ai-stock-footage-matcher/) | CLIP-based stock footage matching + FFmpeg render, with dedup and error handling | [Buy](https://automationworkflows.io/product/ai-stock-footage-matcher-video-render-pipeline-n8n) |
+| [AI Video Pipeline: Stock Footage Matching + Auto-Publish](ai-stock-footage-matcher/) | CLIP-based stock footage matching + FFmpeg render, then auto-publish to TikTok/Instagram/YouTube, with dedup and error handling | [Buy](https://automationworkflows.io/product/ai-stock-footage-matcher-video-render-pipeline-n8n) |
 | [Multi-Voice AI Character Video Generator](multivoice-tts-pipeline/) | Multi-character TTS (ElevenLabs + free Piper fallback) with word-level caption timing | [Buy](https://automationworkflows.io/product/multi-voice-ai-character-video-generator-elevenlabs-piper-tts-google-sheets-approval-ffmpeg-render-n8n) |
 | [AI Trend Research & Viral Script Writer](trend-research-viral-script-writer/) | Dedup-aware trend research + a production-tested retention-formula script writer | [Buy](https://automationworkflows.io/product/ai-trend-research-viral-script-writer-hook-pattern-interrupt-loop-formula-n8n-claude) |
 | [AI Content Repurposing Engine](content-repurposing-engine/) | Turn one long-form transcript/article into a 4-platform, source-grounded content pack | [Buy](https://automationworkflows.io/product/ai-content-repurposing-engine-1-long-form-source-5-platform-content-pack-n8n-claude) |
