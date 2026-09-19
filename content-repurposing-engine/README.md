@@ -7,8 +7,8 @@ An n8n + Claude workflow that turns one long-form source (a video transcript, po
 **Highlights**
 - Anti-hallucination by design: every generated angle must cite the exact quote/moment from the source it's grounded in
 - One angle → four platform-native formats, each following that platform's actual conventions (not the same text pasted four times)
-- Strict output validation — a malformed or incomplete Claude response fails loudly instead of writing a broken row
+- Strict output validation - a malformed or incomplete Claude response fails loudly instead of writing a broken row
 
-**Get it:** [AutomationWorkflows.io listing](https://automationworkflows.io/product/ai-content-repurposing-engine-1-long-form-source-5-platform-content-pack-n8n-claude)
+**Get it:** [Gumroad listing](https://yusufsevindik.gumroad.com/l/lwumgw)
 
-*(Full template file is delivered on purchase — this repo is a portfolio showcase, not the download.)*
+*(Full template file is delivered on purchase - this repo is a portfolio showcase, not the download.)*
