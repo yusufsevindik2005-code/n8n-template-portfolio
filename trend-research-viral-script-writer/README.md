@@ -6,7 +6,7 @@ Two connected n8n workflows: one researches fresh trend topics with Claude (dedu
 
 **Highlights**
 - Dedup-aware trend research - Claude sees your existing topic history and is explicitly instructed to avoid repeating it
-- A production-refined script formula: bold-claim/question opening, a mid-script "pattern interrupt" line placed where Shorts retention typically dips, deliberate line-length variation, and a closing line that loops back to the opening
+- A retention-focused script formula: bold-claim/question opening, a mid-script "pattern interrupt" line placed where Shorts retention typically dips, deliberate line-length variation, and a closing line that loops back to the opening
 - Fully self-contained - only needs Google Sheets + an Anthropic API key, no external render script required
 
 **Get it:** [Gumroad listing](https://yusufsevindik.gumroad.com/l/fwaajr)

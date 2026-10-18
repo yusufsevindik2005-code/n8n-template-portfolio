@@ -7,7 +7,7 @@ An n8n workflow that turns an approved script into a rendered, published video: 
 **Highlights**
 - CLIP-based visual re-ranking (ONNX runtime, no GPU required) - picks footage that actually matches the line's subject, not just generic keyword hits
 - Cross-line deduplication - avoids reusing the same clip across multiple lines in one video
-- One-click distribution: renders, then auto-publishes to TikTok/Instagram/YouTube in the same run (Upload-Post API) with title/description/hashtags pulled straight from your content sheet
+- One-click distribution: renders, then hands the video to the Upload-Post API for TikTok/Instagram/YouTube publishing in the same run (this publishing step has not been live-tested), with title/description/hashtags pulled straight from your content sheet
 - Full error-handling branch at every stage (stock-fetch, render, publish) - a failure writes a distinct status instead of failing the whole run silently
 
 **Get it:** [Gumroad listing](https://yusufsevindik.gumroad.com/l/n8n-stock-footage-matcher)
